@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Haris Usman and I'm a 23 year old developer based is Oslo, Norway.
+
+Skills:
+
+- HTML
+- CSS
+- JavaScript
+
 <!--
 **haris867/haris867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
