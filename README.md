@@ -14,6 +14,7 @@ I've just finished my Front-End Development studies at Noroff.
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 💻 Actively looking for employment now that I've finished my studies and currently working on freelance projects like [LC Troop - coming soon](https://lctroop.com/).
+
 ⚽️ When I'm not in front of my screen coding, I play and watch football(mostly play)
 
 <!--
