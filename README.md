@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway.
+My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway, and I've just finished my Front-End Development studies at Noroff.
 
-I've just finished my Front-End Development studies at Noroff.
+🎨 I'm passionate about creating beautiful and responsive web sites that stand out and that retains a certain ✨edge✨
+
+💻 Actively looking for employment now that I've finished my studies and currently working on freelance projects like [LC Troop - coming soon](https://lctroop.com/).
+
+⚽️ When I'm not in front of my screen coding, I play and watch football(mostly play)
 
 ### Skills:
 
@@ -12,10 +16,24 @@ I've just finished my Front-End Development studies at Noroff.
 - ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Github](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+- ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-💻 Actively looking for employment now that I've finished my studies and currently working on freelance projects like [LC Troop - coming soon](https://lctroop.com/).
+### Tools:
 
-⚽️ When I'm not in front of my screen coding, I play and watch football(mostly play)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+- ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
 
 <!--
 **haris867/haris867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
