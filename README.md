@@ -8,6 +8,8 @@ My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway
 
 ⚽️ When I'm not in front of my screen coding, I play and watch football(mostly play)
 
+👨🏽‍🎨 Check out my work: [Portfolio](https://haris-usman-portfolio.netlify.app/)
+
 ### Skills:
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
