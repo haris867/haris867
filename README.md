@@ -33,6 +33,11 @@ My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway
 - ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Contact
+
+[Email](mailto:haris@hotmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/haris-usman-3bb83a204/)
 
 
 <!--
