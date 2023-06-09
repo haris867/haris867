@@ -34,10 +34,10 @@ My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Contact
+ 
+✉️ [Email](mailto:haris@hotmail.com)
 
-[Email](mailto:haris@hotmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/haris-usman-3bb83a204/)
+💻 [LinkedIn](https://www.linkedin.com/in/haris-usman-3bb83a204/)
 
 
 <!--
