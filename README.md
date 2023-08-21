@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway, and I've just finished my Front-End Development studies at Noroff.
+My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway.
 
-🎨 I'm passionate about creating beautiful and responsive web sites that stand out and that retains a certain ✨edge✨
+🎓 I've just finished my Front-End Development studies at Noroff.
 
-💻 Actively looking for employment now that I've finished my studies and currently working on freelance projects like [LC Troop - coming soon](https://lctroop.com/).
+🎨 I'm passionate about creating beautiful and responsive web sites that stand out and retains a certain ✨edge✨
+
+💻 Actively looking for employment now that I've finished my studies. I'm currently working on freelance projects and messing around with 3D animation in the browser using Three.js and React Three Fiber.
 
 ⚽️ When I'm not in front of my screen coding, I play and watch football(mostly play)
 
-👨🏽‍🎨 Check out my work: [Portfolio](https://haris-usman-portfolio.netlify.app/)
+👨🏽‍🎨 Check out some of my work: [Portfolio](https://haris-usman-portfolio.netlify.app/)
 
 ### Skills:
 
@@ -24,6 +26,9 @@ My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway
 - ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 - ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 - ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- ![three.js](<img src="./icons/ThreeJS-Dark.svg" width="48"> )
+- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- 
 
 ### Tools:
 
