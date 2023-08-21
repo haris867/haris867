@@ -26,9 +26,8 @@ My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway
 - ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 - ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 - ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-- ![three.js](https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ThreeJS-Dark.svg)
-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-- 
+- [![three.js](https://skillicons.dev/icons?i=three&perline=1)](https://skillicons.dev)
+
 
 ### Tools:
 
