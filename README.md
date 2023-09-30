@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Haris Usman and I'm a 24 year old web developer based is Oslo, Norway.
+My name is Haris Usman and I'm a 25 year old web developer based is Oslo, Norway.
 
 🎓 I've just finished my Front-End Development studies at Noroff.
 
