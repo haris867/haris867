@@ -1,16 +1,16 @@
-### Hi there 👋
+### Heisann 👋
 
-My name is Haris Usman and I'm a 25 year old web developer based is Oslo, Norway.
+Jeg heter Haris Usman og er en Frontend-utvikler som bor i Oslo.
 
-🎓 I've just finished my Front-End Development studies at Noroff.
+🎓 Ble nylig ferdig med studiet Frontend-utvikling ved Noroff.
 
-🎨 I'm passionate about creating beautiful and responsive web sites that stand out and retains a certain ✨edge✨
+🎨 Jeg brenner for å designe og utvikle nettsider som ikke bare ser bra ut, men som har det lille ✨ekstra✨
 
-💻 Actively looking for employment now that I've finished my studies. I'm currently working on freelance projects and messing around with 3D animations in the browser using technologies like three.js
+💻 Nå som jeg er nyutdannet, er jeg aktivt på utkikk etter jobb. For tiden jobber jeg med freelance-prosjekter og eksperimenterer med 3D-animasjoner i nettleseren ved hjelp av teknologier som Spline, three.js og React-three-fiber.
 
-⚽️ When I'm not in front of my screen coding, I play and watch football(mostly play)
+⚽️ Når jeg ikke sitter foran skjermen og koder, spiller jeg eller ser på fotball (spiller mest).
 
-👨🏽‍🎨 Check out some of my work: [Portfolio](https://haris-usman-portfolio.netlify.app/)
+👨🏽‍🎨 Sjekk ut min portefølje: [Portfolio](https://harisusman.no)
 
 ### Skills:
 
@@ -43,19 +43,3 @@ My name is Haris Usman and I'm a 25 year old web developer based is Oslo, Norway
 ✉️ [Email](mailto:haris@hotmail.com)
 
 💻 [LinkedIn](https://www.linkedin.com/in/haris-usman-3bb83a204/)
-
-
-<!--
-**haris867/haris867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
