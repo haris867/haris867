@@ -2,11 +2,11 @@
 
 Jeg heter Haris Usman og er en Frontend-utvikler som bor i Oslo.
 
-🎓 Ble nylig ferdig med studiet Frontend-utvikling ved Noroff.
+🎓 Uteksaminert fra studiet Frontend-utvikling ved Noroff.
 
 🎨 Jeg brenner for å designe og utvikle nettsider som ikke bare ser bra ut, men som har det lille ✨ekstra✨
 
-💻 For tiden jobber jeg med freelance-prosjekter og eksperimenterer med 3D-animasjoner i nettleseren ved hjelp av teknologier som Spline, three.js og React-three-fiber.
+💻 For tiden eksperimenterer med 3D-animasjoner i nettleseren ved hjelp av teknologier som Spline, three.js og React-three-fiber.
 
 ⚽️ Når jeg ikke sitter foran skjermen og koder, spiller jeg eller ser på fotball (spiller mest).
 
